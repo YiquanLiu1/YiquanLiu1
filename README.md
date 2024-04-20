@@ -1,16 +1,10 @@
 ### Hi there 👋
 
-<!--
-**YiquanLiu1/YiquanLiu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently a student at TUM
 - 🌱 I’m currently learning C++
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on Sphinxs
+- 🤔 I’m looking for help with good user for C++
+- 📫 How to reach me: liuyiquan78@gmail.com
+
